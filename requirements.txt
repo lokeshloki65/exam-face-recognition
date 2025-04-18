@@ -1,5 +1,6 @@
-﻿mediapipe==0.10.14
-opencv-python==4.*
-sounddevice==0.*
-virtualenv==20.*
+Flask
 gunicorn
+opencv-python
+face-recognition
+numpy
+sounddevice
