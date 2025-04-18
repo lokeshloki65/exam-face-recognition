@@ -2,3 +2,4 @@
 opencv-python==4.*
 sounddevice==0.*
 virtualenv==20.*
+gunicorn
